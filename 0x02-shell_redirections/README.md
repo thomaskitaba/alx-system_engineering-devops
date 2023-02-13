@@ -17,3 +17,4 @@
 17-hidethisword: 17-hidethisword
 18-letteronly: 18-letteronly
 20-hiago: 20-hiago
+21-reverse:  21-reverse
