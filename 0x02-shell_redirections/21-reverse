@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input to be reversed" | tac
+echo "input to be reversed" | rev
