@@ -10,3 +10,4 @@
  create mode 100755 0x02-shell_redirections/8-cwd_state
 9-duplicate_last_line:  9-duplicate_last_line
 11-directories: 11-directories count directories
+12-newest_files: 12-newest_files
