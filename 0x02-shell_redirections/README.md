@@ -11,3 +11,4 @@
 9-duplicate_last_line:  9-duplicate_last_line
 11-directories: 11-directories count directories
 12-newest_files: 12-newest_files
+14-findthatword: 14-findthatword
