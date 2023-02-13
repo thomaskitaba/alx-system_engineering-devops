@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input with c and C letters" | tr -d cC
+echo "Chicago" | tr -d cC
