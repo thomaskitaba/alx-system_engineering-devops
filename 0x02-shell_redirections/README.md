@@ -8,3 +8,4 @@
 [main 78b262e] redirecet ls to a file
  2 files changed, 3 insertions(+)
  create mode 100755 0x02-shell_redirections/8-cwd_state
+9-duplicate_last_line:  9-duplicate_last_line
