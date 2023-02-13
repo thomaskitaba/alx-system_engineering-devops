@@ -15,3 +15,4 @@
 15-countthatword: 15-countthatword
 16-whatsnext:  16-whatsnext
 17-hidethisword: 17-hidethisword
+18-letteronly: 18-letteronly
