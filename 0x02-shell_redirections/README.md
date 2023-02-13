@@ -12,3 +12,4 @@
 11-directories: 11-directories count directories
 12-newest_files: 12-newest_files
 14-findthatword: 14-findthatword
+15-countthatword: 15-countthatword
