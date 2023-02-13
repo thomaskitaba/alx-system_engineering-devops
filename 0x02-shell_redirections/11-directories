@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | grep ^d | grep -v /$ | grep -v ^\.\{1,2\}$ | wc -l
+find . -type d -not -path '*/\.*' | grep -v "^\.$" | wc -l
