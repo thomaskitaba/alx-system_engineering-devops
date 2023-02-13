@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc -l
+ls -la | grep ^d | grep -v /$ | grep -v ^\.\{1,2\}$ | wc -l
