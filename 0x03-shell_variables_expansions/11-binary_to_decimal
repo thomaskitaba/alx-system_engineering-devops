@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $(echo "ibase=2" | bc) + 101010 ))
+echo "2i $BINARY p" | dc
