@@ -3,3 +3,4 @@
 2-path: add /action at the end of PATH
 3-paths: count nuber of directories
 5-local_variables: view local variables
+6-create_local_variable: create variable named BEST 
