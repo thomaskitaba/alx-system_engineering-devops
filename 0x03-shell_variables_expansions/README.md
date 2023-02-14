@@ -7,3 +7,4 @@
 7-create_global_variable: create global variable
 8-true_knowledge:   multiply 128 with 
 9-divide_and_rule: Powere dividec by divide
+10-love_exponent_breath: breath to the power of love
