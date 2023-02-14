@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($(( $((WATER#water)) + $((STIR#stir)) ))#bestchol))"
+dc -e "16o`dc -e \"16i0${WATER} 0${STIR}+p\" | tr [0-9] [a-j]`p" | tr [a-j] [bestchol]
