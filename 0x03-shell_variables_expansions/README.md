@@ -9,3 +9,4 @@
 9-divide_and_rule: Powere dividec by divide
 10-love_exponent_breath: breath to the power of love
 13-print_float: two decimal places
+11-binary_to_decimal: convert binary to decimal
