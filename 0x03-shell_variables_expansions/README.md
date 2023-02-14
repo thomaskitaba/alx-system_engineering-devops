@@ -11,3 +11,4 @@
 13-print_float: two decimal places
 11-binary_to_decimal: convert binary to decimal
 12-combinations: a to z comibination
+100-decimal_to_hexadecimal:  decimal to hexadecimal
