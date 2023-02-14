@@ -10,3 +10,4 @@
 10-love_exponent_breath: breath to the power of love
 13-print_float: two decimal places
 11-binary_to_decimal: convert binary to decimal
+12-combinations: a to z comibination
